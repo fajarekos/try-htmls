@@ -1,0 +1,26 @@
+{
+  "name": "sisko",
+  "description": "sistem informasi akademik",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "sisko"
+  ],
+  "authors": [
+    "fajar eko susilo"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.0",
+    "font-awesome": "^4.6.1"
+  }
+}
